@@ -77,6 +77,7 @@ class ChildDiv {
 
 const parent1 = new ParentDiv();          
 const child1 = new ChildDiv(parent1);      
+const child5 = new ChildDiv(parent1);      
 
 const parent2 = new ParentDiv();          
 const child2 = new ChildDiv(parent2);      
